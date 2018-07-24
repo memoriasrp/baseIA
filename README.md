@@ -1,0 +1,2 @@
+# baseIA
+data para pruebas
